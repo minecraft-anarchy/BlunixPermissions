@@ -1,0 +1,8 @@
+groups:
+  default:
+    permissions:
+      - blunixteleport.bed
+      
+player-groups:
+  default:
+    
